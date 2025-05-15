@@ -1,0 +1,562 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,AgeGroup,FareBin,IsMinor
+1,0,3,"braund, mr. owen harris",male,22.0,1,0,a/5 21171,7.25,b96 b98,s,Adult,0,False
+3,1,3,"heikkinen, miss. laina",female,26.0,0,0,ston/o2. 3101282,7.925,b96 b98,s,Adult,1,False
+4,1,1,"futrelle, mrs. jacques heath (lily may peel)",female,35.0,1,0,113803,53.1,c123,s,Adult,3,False
+5,0,3,"allen, mr. william henry",male,35.0,0,0,373450,8.05,b96 b98,s,Adult,1,False
+6,0,3,"moran, mr. james",male,28.0,0,0,330877,8.4583,b96 b98,q,Adult,1,False
+7,0,1,"mccarthy, mr. timothy j",male,54.0,0,0,17463,51.8625,e46,s,Adult,3,False
+10,1,2,"nasser, mrs. nicholas (adele achem)",female,14.0,1,0,237736,30.0708,b96 b98,c,Teen,3,True
+13,0,3,"saundercock, mr. william henry",male,20.0,0,0,a/5. 2151,8.05,b96 b98,s,Teen,1,False
+15,0,3,"vestrom, miss. hulda amanda adolfina",female,14.0,0,0,350406,7.8542,b96 b98,s,Teen,1,True
+18,1,2,"williams, mr. charles eugene",male,28.0,0,0,244373,13.0,b96 b98,s,Adult,2,False
+19,0,3,"vander planke, mrs. julius (emelia maria vandemoortele)",female,31.0,1,0,345763,18.0,b96 b98,s,Adult,3,False
+20,1,3,"masselmani, mrs. fatima",female,28.0,0,0,2649,7.225,b96 b98,c,Adult,0,False
+21,0,2,"fynney, mr. joseph j",male,35.0,0,0,239865,26.0,b96 b98,s,Adult,3,False
+22,1,2,"beesley, mr. lawrence",male,34.0,0,0,248698,13.0,d56,s,Adult,2,False
+23,1,3,"mcgowan, miss. anna ""annie""",female,15.0,0,0,330923,8.0292,b96 b98,q,Teen,1,True
+24,1,1,"sloper, mr. william thompson",male,28.0,0,0,113788,35.5,a6,s,Adult,3,False
+27,0,3,"emir, mr. farred chehab",male,28.0,0,0,2631,7.225,b96 b98,c,Adult,0,False
+29,1,3,"o'dwyer, miss. ellen ""nellie""",female,28.0,0,0,330959,7.8792,b96 b98,q,Adult,1,False
+30,0,3,"todoroff, mr. lalio",male,28.0,0,0,349216,7.8958,b96 b98,s,Adult,1,False
+31,0,1,"uruchurtu, don. manuel e",male,40.0,0,0,pc 17601,27.7208,b96 b98,c,Adult,3,False
+33,1,3,"glynn, miss. mary agatha",female,28.0,0,0,335677,7.75,b96 b98,q,Adult,0,False
+36,0,1,"holverson, mr. alexander oskar",male,42.0,1,0,113789,52.0,b96 b98,s,Adult,3,False
+37,1,3,"mamee, mr. hanna",male,28.0,0,0,2677,7.2292,b96 b98,c,Adult,0,False
+38,0,3,"cann, mr. ernest charles",male,21.0,0,0,a./5. 2152,8.05,b96 b98,s,Adult,1,False
+39,0,3,"vander planke, miss. augusta maria",female,18.0,2,0,345764,18.0,b96 b98,s,Teen,3,False
+40,1,3,"nicola-yarred, miss. jamila",female,14.0,1,0,2651,11.2417,b96 b98,c,Teen,2,True
+41,0,3,"ahlin, mrs. johan (johanna persdotter larsson)",female,40.0,1,0,7546,9.475,b96 b98,s,Adult,2,False
+42,0,2,"turpin, mrs. william john robert (dorothy ann wonnacott)",female,27.0,1,0,11668,21.0,b96 b98,s,Adult,3,False
+43,0,3,"kraeff, mr. theodor",male,28.0,0,0,349253,7.8958,b96 b98,c,Adult,1,False
+45,1,3,"devaney, miss. margaret delia",female,19.0,0,0,330958,7.8792,b96 b98,q,Teen,1,False
+46,0,3,"rogers, mr. william john",male,28.0,0,0,s.c./a.4. 23567,8.05,b96 b98,s,Adult,1,False
+47,0,3,"lennon, mr. denis",male,28.0,1,0,370371,15.5,b96 b98,q,Adult,3,False
+48,1,3,"o'driscoll, miss. bridget",female,28.0,0,0,14311,7.75,b96 b98,q,Adult,0,False
+49,0,3,"samaan, mr. youssef",male,28.0,2,0,2662,21.6792,b96 b98,c,Adult,3,False
+50,0,3,"arnold-franchi, mrs. josef (josefine franchi)",female,18.0,1,0,349237,17.8,b96 b98,s,Teen,3,False
+52,0,3,"nosworthy, mr. richard cater",male,21.0,0,0,a/4. 39886,7.8,b96 b98,s,Adult,1,False
+54,1,2,"faunthorpe, mrs. lizzie (elizabeth anne wilkinson)",female,29.0,1,0,2926,26.0,b96 b98,s,Adult,3,False
+56,1,1,"woolner, mr. hugh",male,28.0,0,0,19947,35.5,c52,s,Adult,3,False
+57,1,2,"rugg, miss. emily",female,21.0,0,0,c.a. 31026,10.5,b96 b98,s,Adult,2,False
+58,0,3,"novel, mr. mansouer",male,28.5,0,0,2697,7.2292,b96 b98,c,Adult,0,False
+61,0,3,"sirayanian, mr. orsen",male,22.0,0,0,2669,7.2292,b96 b98,c,Adult,0,False
+65,0,1,"stewart, mr. albert a",male,28.0,0,0,pc 17605,27.7208,b96 b98,c,Adult,3,False
+67,1,2,"nye, mrs. (elizabeth ramell)",female,29.0,0,0,c.a. 29395,10.5,f33,s,Adult,2,False
+68,0,3,"crease, mr. ernest james",male,19.0,0,0,s.p. 3464,8.1583,b96 b98,s,Teen,1,False
+70,0,3,"kink, mr. vincenz",male,26.0,2,0,315151,8.6625,b96 b98,s,Adult,2,False
+71,0,2,"jenkin, mr. stephen curnow",male,32.0,0,0,c.a. 33111,10.5,b96 b98,s,Adult,2,False
+74,0,3,"chronopoulos, mr. apostolos",male,26.0,1,0,2680,14.4542,b96 b98,c,Adult,2,False
+76,0,3,"moen, mr. sigurd hansen",male,25.0,0,0,348123,7.65,f g73,s,Adult,0,False
+77,0,3,"staneff, mr. ivan",male,28.0,0,0,349208,7.8958,b96 b98,s,Adult,1,False
+78,0,3,"moutal, mr. rahamin haim",male,28.0,0,0,374746,8.05,b96 b98,s,Adult,1,False
+80,1,3,"dowdell, miss. elizabeth",female,30.0,0,0,364516,12.475,b96 b98,s,Adult,2,False
+81,0,3,"waelens, mr. achille",male,22.0,0,0,345767,9.0,b96 b98,s,Adult,2,False
+82,1,3,"sheerlinck, mr. jan baptist",male,29.0,0,0,345779,9.5,b96 b98,s,Adult,2,False
+83,1,3,"mcdermott, miss. brigdet delia",female,28.0,0,0,330932,7.7875,b96 b98,q,Adult,1,False
+84,0,1,"carrau, mr. francisco m",male,28.0,0,0,113059,47.1,b96 b98,s,Adult,3,False
+85,1,2,"ilett, miss. bertha",female,17.0,0,0,so/c 14885,10.5,b96 b98,s,Teen,2,True
+88,0,3,"slocovski, mr. selman francis",male,28.0,0,0,soton/oq 392086,8.05,b96 b98,s,Adult,1,False
+90,0,3,"celotti, mr. francesco",male,24.0,0,0,343275,8.05,b96 b98,s,Adult,1,False
+91,0,3,"christmann, mr. emil",male,29.0,0,0,343276,8.05,b96 b98,s,Adult,1,False
+92,0,3,"andreasson, mr. paul edvin",male,20.0,0,0,347466,7.8542,b96 b98,s,Teen,1,False
+96,0,3,"shorney, mr. charles joseph",male,28.0,0,0,374910,8.05,b96 b98,s,Adult,1,False
+100,0,2,"kantor, mr. sinai",male,34.0,1,0,244367,26.0,b96 b98,s,Adult,3,False
+101,0,3,"petranec, miss. matilda",female,28.0,0,0,349245,7.8958,b96 b98,s,Adult,1,False
+102,0,3,"petroff, mr. pastcho (""pentcho"")",male,28.0,0,0,349215,7.8958,b96 b98,s,Adult,1,False
+104,0,3,"johansson, mr. gustaf joel",male,33.0,0,0,7540,8.6542,b96 b98,s,Adult,2,False
+105,0,3,"gustafsson, mr. anders vilhelm",male,37.0,2,0,3101276,7.925,b96 b98,s,Adult,1,False
+106,0,3,"mionoff, mr. stoytcho",male,28.0,0,0,349207,7.8958,b96 b98,s,Adult,1,False
+107,1,3,"salkjelsvik, miss. anna kristine",female,21.0,0,0,343120,7.65,b96 b98,s,Adult,0,False
+108,1,3,"moss, mr. albert johan",male,28.0,0,0,312991,7.775,b96 b98,s,Adult,0,False
+109,0,3,"rekic, mr. tido",male,38.0,0,0,349249,7.8958,b96 b98,s,Adult,1,False
+110,1,3,"moran, miss. bertha",female,28.0,1,0,371110,24.15,b96 b98,q,Adult,3,False
+111,0,1,"porter, mr. walter chamberlain",male,47.0,0,0,110465,52.0,c110,s,Adult,3,False
+112,0,3,"zabour, miss. hileni",female,14.5,1,0,2665,14.4542,b96 b98,c,Teen,2,True
+113,0,3,"barton, mr. david john",male,22.0,0,0,324669,8.05,b96 b98,s,Adult,1,False
+114,0,3,"jussila, miss. katriina",female,20.0,1,0,4136,9.825,b96 b98,s,Teen,2,False
+115,0,3,"attalah, miss. malake",female,17.0,0,0,2627,14.4583,b96 b98,c,Teen,2,True
+116,0,3,"pekoniemi, mr. edvard",male,21.0,0,0,ston/o 2. 3101294,7.925,b96 b98,s,Adult,1,False
+118,0,2,"turpin, mr. william john robert",male,29.0,1,0,11668,21.0,b96 b98,s,Adult,3,False
+122,0,3,"moore, mr. leonard charles",male,28.0,0,0,a4. 54510,8.05,b96 b98,s,Adult,1,False
+123,0,2,"nasser, mr. nicholas",male,32.5,1,0,237736,30.0708,b96 b98,c,Adult,3,False
+124,1,2,"webber, miss. susan",female,32.5,0,0,27267,13.0,e101,s,Adult,2,False
+126,1,3,"nicola-yarred, master. elias",male,12.0,1,0,2651,11.2417,b96 b98,c,Child,2,True
+127,0,3,"mcmahon, mr. martin",male,28.0,0,0,370372,7.75,b96 b98,q,Adult,0,False
+128,1,3,"madsen, mr. fridtjof arne",male,24.0,0,0,c 17369,7.1417,b96 b98,s,Adult,0,False
+130,0,3,"ekstrom, mr. johan",male,45.0,0,0,347061,6.975,b96 b98,s,Adult,0,False
+131,0,3,"drazenoic, mr. jozef",male,33.0,0,0,349241,7.8958,b96 b98,c,Adult,1,False
+132,0,3,"coelho, mr. domingos fernandeo",male,20.0,0,0,soton/o.q. 3101307,7.05,b96 b98,s,Teen,0,False
+133,0,3,"robins, mrs. alexander a (grace charity laury)",female,47.0,1,0,a/5. 3337,14.5,b96 b98,s,Adult,2,False
+134,1,2,"weisz, mrs. leopold (mathilde francoise pede)",female,29.0,1,0,228414,26.0,b96 b98,s,Adult,3,False
+135,0,2,"sobey, mr. samuel james hayden",male,25.0,0,0,c.a. 29178,13.0,b96 b98,s,Adult,2,False
+136,0,2,"richard, mr. emile",male,23.0,0,0,sc/paris 2133,15.0458,b96 b98,c,Adult,2,False
+138,0,1,"futrelle, mr. jacques heath",male,37.0,1,0,113803,53.1,c123,s,Adult,3,False
+139,0,3,"osen, mr. olaf elon",male,16.0,0,0,7534,9.2167,b96 b98,s,Teen,2,True
+142,1,3,"nysten, miss. anna sofia",female,22.0,0,0,347081,7.75,b96 b98,s,Adult,0,False
+143,1,3,"hakkarainen, mrs. pekka pietari (elin matilda dolck)",female,24.0,1,0,ston/o2. 3101279,15.85,b96 b98,s,Adult,3,False
+144,0,3,"burke, mr. jeremiah",male,19.0,0,0,365222,6.75,b96 b98,q,Teen,0,False
+145,0,2,"andrew, mr. edgardo samuel",male,18.0,0,0,231945,11.5,b96 b98,s,Teen,2,False
+147,1,3,"andersson, mr. august edvard (""wennerstrom"")",male,27.0,0,0,350043,7.7958,b96 b98,s,Adult,1,False
+150,0,2,"byles, rev. thomas roussel davids",male,42.0,0,0,244310,13.0,b96 b98,s,Adult,2,False
+151,0,2,"bateman, rev. robert james",male,51.0,0,0,s.o.p. 1166,12.525,b96 b98,s,Adult,2,False
+155,0,3,"olsen, mr. ole martin",male,28.0,0,0,fa 265302,7.3125,b96 b98,s,Adult,0,False
+157,1,3,"gilnagh, miss. katherine ""katie""",female,16.0,0,0,35851,7.7333,b96 b98,q,Teen,0,True
+158,0,3,"corn, mr. harry",male,30.0,0,0,soton/oq 392090,8.05,b96 b98,s,Adult,1,False
+159,0,3,"smiljanic, mr. mile",male,28.0,0,0,315037,8.6625,b96 b98,s,Adult,2,False
+162,1,2,"watt, mrs. james (elizabeth ""bessie"" inglis milne)",female,40.0,0,0,c.a. 33595,15.75,b96 b98,s,Adult,3,False
+163,0,3,"bengtsson, mr. john viktor",male,26.0,0,0,347068,7.775,b96 b98,s,Adult,0,False
+164,0,3,"calic, mr. jovo",male,17.0,0,0,315093,8.6625,b96 b98,s,Teen,2,True
+169,0,1,"baumann, mr. john d",male,28.0,0,0,pc 17318,25.925,b96 b98,s,Adult,3,False
+174,0,3,"sivola, mr. antti wilhelm",male,21.0,0,0,ston/o 2. 3101280,7.925,b96 b98,s,Adult,1,False
+178,0,1,"isham, miss. ann elizabeth",female,50.0,0,0,pc 17595,28.7125,c49,c,Adult,3,False
+179,0,2,"hale, mr. reginald",male,30.0,0,0,250653,13.0,b96 b98,s,Adult,2,False
+180,0,3,"leonard, mr. lionel",male,36.0,0,0,line,0.0,b96 b98,s,Adult,0,False
+182,0,2,"pernot, mr. rene",male,28.0,0,0,sc/paris 2131,15.05,b96 b98,c,Adult,2,False
+186,0,1,"rood, mr. hugh roscoe",male,28.0,0,0,113767,50.0,a32,s,Adult,3,False
+187,1,3,"o'brien, mrs. thomas (johanna ""hannah"" godfrey)",female,28.0,1,0,370365,15.5,b96 b98,q,Adult,3,False
+188,1,1,"romaine, mr. charles hallace (""mr c rolmane"")",male,45.0,0,0,111428,26.55,b96 b98,s,Adult,3,False
+190,0,3,"turcin, mr. stjepan",male,36.0,0,0,349247,7.8958,b96 b98,s,Adult,1,False
+191,1,2,"pinsky, mrs. (rosa)",female,32.0,0,0,234604,13.0,b96 b98,s,Adult,2,False
+192,0,2,"carbines, mr. william",male,19.0,0,0,28424,13.0,b96 b98,s,Teen,2,False
+193,1,3,"andersen-jensen, miss. carla christine nielsine",female,19.0,1,0,350046,7.8542,b96 b98,s,Teen,1,False
+195,1,1,"brown, mrs. james joseph (margaret tobin)",female,44.0,0,0,pc 17610,27.7208,b4,c,Adult,3,False
+197,0,3,"mernagh, mr. robert",male,28.0,0,0,368703,7.75,b96 b98,q,Adult,0,False
+199,1,3,"madigan, miss. margaret ""maggie""",female,28.0,0,0,370370,7.75,b96 b98,q,Adult,0,False
+200,0,2,"yrois, miss. henriette (""mrs harbeck"")",female,24.0,0,0,248747,13.0,b96 b98,s,Adult,2,False
+201,0,3,"vande walle, mr. nestor cyriel",male,28.0,0,0,345770,9.5,b96 b98,s,Adult,2,False
+203,0,3,"johanson, mr. jakob alfred",male,34.0,0,0,3101264,6.4958,b96 b98,s,Adult,0,False
+204,0,3,"youseff, mr. gerious",male,45.5,0,0,2628,7.225,b96 b98,c,Adult,0,False
+205,1,3,"cohen, mr. gurshon ""gus""",male,18.0,0,0,a/5 3540,8.05,b96 b98,s,Teen,1,False
+207,0,3,"backstrom, mr. karl alfred",male,32.0,1,0,3101278,15.85,b96 b98,s,Adult,3,False
+208,1,3,"albimona, mr. nassef cassem",male,26.0,0,0,2699,18.7875,b96 b98,c,Adult,3,False
+209,1,3,"carr, miss. helen ""ellen""",female,16.0,0,0,367231,7.75,b96 b98,q,Teen,0,True
+210,1,1,"blank, mr. henry",male,40.0,0,0,112277,31.0,a31,c,Adult,3,False
+211,0,3,"ali, mr. ahmed",male,24.0,0,0,soton/o.q. 3101311,7.05,b96 b98,s,Adult,0,False
+212,1,2,"cameron, miss. clear annie",female,35.0,0,0,f.c.c. 13528,21.0,b96 b98,s,Adult,3,False
+213,0,3,"perkin, mr. john henry",male,22.0,0,0,a/5 21174,7.25,b96 b98,s,Adult,0,False
+214,0,2,"givard, mr. hans kristensen",male,30.0,0,0,250646,13.0,b96 b98,s,Adult,2,False
+215,0,3,"kiernan, mr. philip",male,28.0,1,0,367229,7.75,b96 b98,q,Adult,0,False
+217,1,3,"honkanen, miss. eliina",female,27.0,0,0,ston/o2. 3101283,7.925,b96 b98,s,Adult,1,False
+218,0,2,"jacobsohn, mr. sidney samuel",male,42.0,1,0,243847,27.0,b96 b98,s,Adult,3,False
+220,0,2,"harris, mr. walter",male,30.0,0,0,w/c 14208,10.5,b96 b98,s,Adult,2,False
+221,1,3,"sunderland, mr. victor francis",male,16.0,0,0,soton/oq 392089,8.05,b96 b98,s,Teen,1,True
+222,0,2,"bracken, mr. james h",male,27.0,0,0,220367,13.0,b96 b98,s,Adult,2,False
+223,0,3,"green, mr. george henry",male,51.0,0,0,21440,8.05,b96 b98,s,Adult,1,False
+224,0,3,"nenkoff, mr. christo",male,28.0,0,0,349234,7.8958,b96 b98,s,Adult,1,False
+226,0,3,"berglund, mr. karl ivar sven",male,22.0,0,0,pp 4348,9.35,b96 b98,s,Adult,2,False
+227,1,2,"mellors, mr. william john",male,19.0,0,0,sw/pp 751,10.5,b96 b98,s,Teen,2,False
+228,0,3,"lovell, mr. john hall (""henry"")",male,20.5,0,0,a/5 21173,7.25,b96 b98,s,Adult,0,False
+229,0,2,"fahlstrom, mr. arne jonas",male,18.0,0,0,236171,13.0,b96 b98,s,Teen,2,False
+232,0,3,"larsson, mr. bengt edvin",male,29.0,0,0,347067,7.775,b96 b98,s,Adult,0,False
+235,0,2,"leyson, mr. robert william norman",male,24.0,0,0,c.a. 29566,10.5,b96 b98,s,Adult,2,False
+236,0,3,"harknett, miss. alice phoebe",female,28.0,0,0,w./c. 6609,7.55,b96 b98,s,Adult,0,False
+237,0,2,"hold, mr. stephen",male,44.0,1,0,26707,26.0,b96 b98,s,Adult,3,False
+239,0,2,"pengelly, mr. frederick william",male,19.0,0,0,28665,10.5,b96 b98,s,Teen,2,False
+240,0,2,"hunt, mr. george henry",male,33.0,0,0,sco/w 1585,12.275,b96 b98,s,Adult,2,False
+241,0,3,"zabour, miss. thamine",female,28.0,1,0,2665,14.4542,b96 b98,c,Adult,2,False
+242,1,3,"murphy, miss. katherine ""kate""",female,28.0,1,0,367230,15.5,b96 b98,q,Adult,3,False
+243,0,2,"coleridge, mr. reginald charles",male,29.0,0,0,w./c. 14263,10.5,b96 b98,s,Adult,2,False
+244,0,3,"maenpaa, mr. matti alexanteri",male,22.0,0,0,ston/o 2. 3101275,7.125,b96 b98,s,Adult,0,False
+245,0,3,"attalah, mr. sleiman",male,30.0,0,0,2694,7.225,b96 b98,c,Adult,0,False
+247,0,3,"lindahl, miss. agda thorilda viktoria",female,25.0,0,0,347071,7.775,b96 b98,s,Adult,0,False
+250,0,2,"carter, rev. ernest courtenay",male,54.0,1,0,244252,26.0,b96 b98,s,Adult,3,False
+251,0,3,"reed, mr. james george",male,28.0,0,0,362316,7.25,b96 b98,s,Adult,0,False
+254,0,3,"lobb, mr. william arthur",male,30.0,1,0,a/5. 3336,16.1,b96 b98,s,Adult,3,False
+261,0,3,"smith, mr. thomas",male,28.0,0,0,384461,7.75,b96 b98,q,Adult,0,False
+264,0,1,"harrison, mr. william",male,40.0,0,0,112059,0.0,b94,s,Adult,0,False
+265,0,3,"henry, miss. delia",female,28.0,0,0,382649,7.75,b96 b98,q,Adult,0,False
+266,0,2,"reeves, mr. david",male,36.0,0,0,c.a. 17248,10.5,b96 b98,s,Adult,2,False
+268,1,3,"persson, mr. ernst ulrik",male,25.0,1,0,347083,7.775,b96 b98,s,Adult,0,False
+271,0,1,"cairns, mr. alexander",male,28.0,0,0,113798,31.0,b96 b98,s,Adult,3,False
+272,1,3,"tornquist, mr. william henry",male,25.0,0,0,line,0.0,b96 b98,s,Adult,0,False
+275,1,3,"healy, miss. hanora ""nora""",female,28.0,0,0,370375,7.75,b96 b98,q,Adult,0,False
+277,0,3,"lindblom, miss. augusta charlotta",female,45.0,0,0,347073,7.75,b96 b98,s,Adult,0,False
+278,0,2,"parkes, mr. francis ""frank""",male,28.0,0,0,239853,0.0,b96 b98,s,Adult,0,False
+282,0,3,"olsson, mr. nils johan goransson",male,28.0,0,0,347464,7.8542,b96 b98,s,Adult,1,False
+283,0,3,"de pelsmaeker, mr. alfons",male,16.0,0,0,345778,9.5,b96 b98,s,Teen,2,True
+284,1,3,"dorking, mr. edward arthur",male,19.0,0,0,a/5. 10482,8.05,b96 b98,s,Teen,1,False
+285,0,1,"smith, mr. richard william",male,28.0,0,0,113056,26.0,a19,s,Adult,3,False
+286,0,3,"stankovic, mr. ivan",male,33.0,0,0,349239,8.6625,b96 b98,c,Adult,2,False
+287,1,3,"de mulder, mr. theodore",male,30.0,0,0,345774,9.5,b96 b98,s,Adult,2,False
+288,0,3,"naidenoff, mr. penko",male,22.0,0,0,349206,7.8958,b96 b98,s,Adult,1,False
+289,1,2,"hosono, mr. masabumi",male,42.0,0,0,237798,13.0,b96 b98,s,Adult,2,False
+290,1,3,"connolly, miss. kate",female,22.0,0,0,370373,7.75,b96 b98,q,Adult,0,False
+293,0,2,"levy, mr. rene jacques",male,36.0,0,0,sc/paris 2163,12.875,d,c,Adult,2,False
+294,0,3,"haas, miss. aloisia",female,24.0,0,0,349236,8.85,b96 b98,s,Adult,2,False
+295,0,3,"mineff, mr. ivan",male,24.0,0,0,349233,7.8958,b96 b98,s,Adult,1,False
+296,0,1,"lewy, mr. ervin g",male,28.0,0,0,pc 17612,27.7208,b96 b98,c,Adult,3,False
+297,0,3,"hanna, mr. mansour",male,23.5,0,0,2693,7.2292,b96 b98,c,Adult,0,False
+299,1,1,"saalfeld, mr. adolphe",male,28.0,0,0,19988,30.5,c106,s,Adult,3,False
+301,1,3,"kelly, miss. anna katherine ""annie kate""",female,28.0,0,0,9234,7.75,b96 b98,q,Adult,0,False
+302,1,3,"mccoy, mr. bernard",male,28.0,2,0,367226,23.25,b96 b98,q,Adult,3,False
+303,0,3,"johnson, mr. william cahoone jr",male,19.0,0,0,line,0.0,b96 b98,s,Teen,0,False
+304,1,2,"keane, miss. nora a",female,28.0,0,0,226593,12.35,e101,q,Adult,2,False
+305,0,3,"williams, mr. howard hugh ""harry""",male,28.0,0,0,a/5 2466,8.05,b96 b98,s,Adult,1,False
+309,0,2,"abelson, mr. samuel",male,30.0,1,0,p/pp 3381,24.0,b96 b98,c,Adult,3,False
+314,0,3,"hendekovic, mr. ignjac",male,28.0,0,0,349243,7.8958,b96 b98,s,Adult,1,False
+316,1,3,"nilsson, miss. helmina josefina",female,26.0,0,0,347470,7.8542,b96 b98,s,Adult,1,False
+317,1,2,"kantor, mrs. sinai (miriam sternin)",female,24.0,1,0,244367,26.0,b96 b98,s,Adult,3,False
+318,0,2,"moraweck, dr. ernest",male,54.0,0,0,29011,14.0,b96 b98,s,Adult,2,False
+321,0,3,"dennis, mr. samuel",male,22.0,0,0,a/5 21172,7.25,b96 b98,s,Adult,0,False
+322,0,3,"danoff, mr. yoto",male,27.0,0,0,349219,7.8958,b96 b98,s,Adult,1,False
+323,1,2,"slayter, miss. hilda mary",female,30.0,0,0,234818,12.35,b96 b98,q,Adult,2,False
+328,1,2,"ball, mrs. (ada e hall)",female,36.0,0,0,28551,13.0,d,s,Adult,2,False
+331,1,3,"mccoy, miss. agnes",female,28.0,2,0,367226,23.25,b96 b98,q,Adult,3,False
+332,0,1,"partner, mr. austen",male,45.5,0,0,113043,28.5,c124,s,Adult,3,False
+334,0,3,"vander planke, mr. leo edmondus",male,16.0,2,0,345764,18.0,b96 b98,s,Teen,3,True
+336,0,3,"denkoff, mr. mitto",male,28.0,0,0,349225,7.8958,b96 b98,s,Adult,1,False
+339,1,3,"dahl, mr. karl edwart",male,45.0,0,0,7598,8.05,b96 b98,s,Adult,1,False
+340,0,1,"blackwell, mr. stephen weart",male,45.0,0,0,113784,35.5,t,s,Adult,3,False
+343,0,2,"collander, mr. erik gustaf",male,28.0,0,0,248740,13.0,b96 b98,s,Adult,2,False
+344,0,2,"sedgwick, mr. charles frederick waddington",male,25.0,0,0,244361,13.0,b96 b98,s,Adult,2,False
+345,0,2,"fox, mr. stanley hubert",male,36.0,0,0,229236,13.0,b96 b98,s,Adult,2,False
+346,1,2,"brown, miss. amelia ""mildred""",female,24.0,0,0,248733,13.0,f33,s,Adult,2,False
+347,1,2,"smith, miss. marion elsie",female,40.0,0,0,31418,13.0,b96 b98,s,Adult,2,False
+348,1,3,"davison, mrs. thomas henry (mary e finck)",female,28.0,1,0,386525,16.1,b96 b98,s,Adult,3,False
+350,0,3,"dimic, mr. jovan",male,42.0,0,0,315088,8.6625,b96 b98,s,Adult,2,False
+351,0,3,"odahl, mr. nils martin",male,23.0,0,0,7267,9.225,b96 b98,s,Adult,2,False
+352,0,1,"williams-lambert, mr. fletcher fellows",male,28.0,0,0,113510,35.0,c128,s,Adult,3,False
+354,0,3,"arnold-franchi, mr. josef",male,25.0,1,0,349237,17.8,b96 b98,s,Adult,3,False
+355,0,3,"yousif, mr. wazli",male,28.0,0,0,2647,7.225,b96 b98,c,Adult,0,False
+356,0,3,"vanden steen, mr. leo peter",male,28.0,0,0,345783,9.5,b96 b98,s,Adult,2,False
+358,0,2,"funk, miss. annie clemmer",female,38.0,0,0,237671,13.0,b96 b98,s,Adult,2,False
+359,1,3,"mcgovern, miss. mary",female,28.0,0,0,330931,7.8792,b96 b98,q,Adult,1,False
+360,1,3,"mockler, miss. helen mary ""ellie""",female,28.0,0,0,330980,7.8792,b96 b98,q,Adult,1,False
+362,0,2,"del carlo, mr. sebastiano",male,29.0,1,0,sc/paris 2167,27.7208,b96 b98,c,Adult,3,False
+364,0,3,"asim, mr. adola",male,35.0,0,0,soton/o.q. 3101310,7.05,b96 b98,s,Adult,0,False
+365,0,3,"o'brien, mr. thomas",male,28.0,1,0,370365,15.5,b96 b98,q,Adult,3,False
+366,0,3,"adahl, mr. mauritz nils martin",male,30.0,0,0,c 7076,7.25,b96 b98,s,Adult,0,False
+368,1,3,"moussa, mrs. (mantoura boulos)",female,28.0,0,0,2626,7.2292,b96 b98,c,Adult,0,False
+369,1,3,"jermyn, miss. annie",female,28.0,0,0,14313,7.75,b96 b98,q,Adult,0,False
+372,0,3,"wiklund, mr. jakob alfred",male,18.0,1,0,3101267,6.4958,b96 b98,s,Teen,0,False
+373,0,3,"beavan, mr. william thomas",male,19.0,0,0,323951,8.05,b96 b98,s,Teen,1,False
+377,1,3,"landergren, miss. aurora adelia",female,22.0,0,0,c 7077,7.25,b96 b98,s,Adult,0,False
+379,0,3,"betros, mr. tannous",male,20.0,0,0,2648,4.0125,b96 b98,c,Teen,0,False
+380,0,3,"gustafsson, mr. karl gideon",male,19.0,0,0,347069,7.775,b96 b98,s,Teen,0,False
+383,0,3,"tikkanen, mr. juho",male,32.0,0,0,ston/o 2. 3101293,7.925,b96 b98,s,Adult,1,False
+384,1,1,"holverson, mrs. alexander oskar (mary aline towner)",female,35.0,1,0,113789,52.0,b96 b98,s,Adult,3,False
+385,0,3,"plotcharsky, mr. vasil",male,28.0,0,0,349227,7.8958,b96 b98,s,Adult,1,False
+388,1,2,"buss, miss. kate",female,36.0,0,0,27849,13.0,b96 b98,s,Adult,2,False
+389,0,3,"sadlier, mr. matthew",male,28.0,0,0,367655,7.7292,b96 b98,q,Adult,0,False
+390,1,2,"lehmann, miss. bertha",female,17.0,0,0,sc 1748,12.0,b96 b98,c,Teen,2,True
+392,1,3,"jansson, mr. carl olof",male,21.0,0,0,350034,7.7958,b96 b98,s,Adult,1,False
+393,0,3,"gustafsson, mr. johan birger",male,28.0,2,0,3101277,7.925,b96 b98,s,Adult,1,False
+396,0,3,"johansson, mr. erik",male,22.0,0,0,350052,7.7958,b96 b98,s,Adult,1,False
+397,0,3,"olsson, miss. elina",female,31.0,0,0,350407,7.8542,b96 b98,s,Adult,1,False
+398,0,2,"mckane, mr. peter david",male,46.0,0,0,28403,26.0,b96 b98,s,Adult,3,False
+399,0,2,"pain, dr. alfred",male,23.0,0,0,244278,10.5,b96 b98,s,Adult,2,False
+400,1,2,"trout, mrs. william h (jessie l)",female,28.0,0,0,240929,12.65,b96 b98,s,Adult,2,False
+401,1,3,"niskanen, mr. juha",male,39.0,0,0,ston/o 2. 3101289,7.925,b96 b98,s,Adult,1,False
+402,0,3,"adams, mr. john",male,26.0,0,0,341826,8.05,b96 b98,s,Adult,1,False
+403,0,3,"jussila, miss. mari aina",female,21.0,1,0,4137,9.825,b96 b98,s,Adult,2,False
+404,0,3,"hakkarainen, mr. pekka pietari",male,28.0,1,0,ston/o2. 3101279,15.85,b96 b98,s,Adult,3,False
+405,0,3,"oreskovic, miss. marija",female,20.0,0,0,315096,8.6625,b96 b98,s,Teen,2,False
+406,0,2,"gale, mr. shadrach",male,34.0,1,0,28664,21.0,b96 b98,s,Adult,3,False
+407,0,3,"widegren, mr. carl/charles peter",male,51.0,0,0,347064,7.75,b96 b98,s,Adult,0,False
+409,0,3,"birkeland, mr. hans martin monsen",male,21.0,0,0,312992,7.775,b96 b98,s,Adult,0,False
+411,0,3,"sdycoff, mr. todor",male,28.0,0,0,349222,7.8958,b96 b98,s,Adult,1,False
+412,0,3,"hart, mr. henry",male,28.0,0,0,394140,6.8583,b96 b98,q,Adult,0,False
+414,0,2,"cunningham, mr. alfred fleming",male,28.0,0,0,239853,0.0,b96 b98,s,Adult,0,False
+415,1,3,"sundman, mr. johan julian",male,44.0,0,0,ston/o 2. 3101269,7.925,b96 b98,s,Adult,1,False
+416,0,3,"meek, mrs. thomas (annie louise rowley)",female,28.0,0,0,343095,8.05,b96 b98,s,Adult,1,False
+419,0,2,"matthews, mr. william john",male,30.0,0,0,28228,13.0,b96 b98,s,Adult,2,False
+421,0,3,"gheorgheff, mr. stanio",male,28.0,0,0,349254,7.8958,b96 b98,c,Adult,1,False
+422,0,3,"charters, mr. david",male,21.0,0,0,a/5. 13032,7.7333,b96 b98,q,Adult,0,False
+423,0,3,"zimmerman, mr. leo",male,29.0,0,0,315082,7.875,b96 b98,s,Adult,1,False
+426,0,3,"wiseman, mr. phillippe",male,28.0,0,0,a/4. 34244,7.25,b96 b98,s,Adult,0,False
+427,1,2,"clarke, mrs. charles v (ada maria winfield)",female,28.0,1,0,2003,26.0,b96 b98,s,Adult,3,False
+428,1,2,"phillips, miss. kate florence (""mrs kate louise phillips marshall"")",female,19.0,0,0,250655,26.0,b96 b98,s,Teen,3,False
+429,0,3,"flynn, mr. james",male,28.0,0,0,364851,7.75,b96 b98,q,Adult,0,False
+430,1,3,"pickard, mr. berk (berk trembisky)",male,32.0,0,0,soton/o.q. 392078,8.05,e10,s,Adult,1,False
+431,1,1,"bjornstrom-steffansson, mr. mauritz hakan",male,28.0,0,0,110564,26.55,c52,s,Adult,3,False
+432,1,3,"thorneycroft, mrs. percival (florence kate white)",female,28.0,1,0,376564,16.1,b96 b98,s,Adult,3,False
+433,1,2,"louch, mrs. charles alexander (alice adelaide slow)",female,42.0,1,0,sc/ah 3085,26.0,b96 b98,s,Adult,3,False
+434,0,3,"kallio, mr. nikolai erland",male,17.0,0,0,ston/o 2. 3101274,7.125,b96 b98,s,Teen,0,True
+440,0,2,"kvillner, mr. johan henrik johannesson",male,31.0,0,0,c.a. 18723,10.5,b96 b98,s,Adult,2,False
+442,0,3,"hampe, mr. leon",male,20.0,0,0,345769,9.5,b96 b98,s,Teen,2,False
+443,0,3,"petterson, mr. johan emil",male,25.0,1,0,347076,7.775,b96 b98,s,Adult,0,False
+444,1,2,"reynaldo, ms. encarnacion",female,28.0,0,0,230434,13.0,b96 b98,s,Adult,2,False
+445,1,3,"johannesen-bratthammer, mr. bernt",male,28.0,0,0,65306,8.1125,b96 b98,s,Adult,1,False
+448,1,1,"seward, mr. frederic kimber",male,34.0,0,0,113794,26.55,b96 b98,s,Adult,3,False
+450,1,1,"peuchen, major. arthur godfrey",male,52.0,0,0,113786,30.5,c104,s,Adult,3,False
+452,0,3,"hagland, mr. ingvald olai olsen",male,28.0,1,0,65303,19.9667,b96 b98,s,Adult,3,False
+453,0,1,"foreman, mr. benjamin laventall",male,30.0,0,0,113051,27.75,c111,c,Adult,3,False
+455,0,3,"peduzzi, mr. joseph",male,28.0,0,0,a/5 2817,8.05,b96 b98,s,Adult,1,False
+456,1,3,"jalsevac, mr. ivan",male,29.0,0,0,349240,7.8958,b96 b98,c,Adult,1,False
+458,1,1,"kenyon, mrs. frederick r (marion)",female,28.0,1,0,17464,51.8625,d21,s,Adult,3,False
+459,1,2,"toomey, miss. ellen",female,50.0,0,0,f.c.c. 13531,10.5,b96 b98,s,Adult,2,False
+460,0,3,"o'connor, mr. maurice",male,28.0,0,0,371060,7.75,b96 b98,q,Adult,0,False
+461,1,1,"anderson, mr. harry",male,48.0,0,0,19952,26.55,e12,s,Adult,3,False
+462,0,3,"morley, mr. william",male,34.0,0,0,364506,8.05,b96 b98,s,Adult,1,False
+463,0,1,"gee, mr. arthur h",male,47.0,0,0,111320,38.5,e63,s,Adult,3,False
+464,0,2,"milling, mr. jacob christian",male,48.0,0,0,234360,13.0,b96 b98,s,Adult,2,False
+465,0,3,"maisner, mr. simon",male,28.0,0,0,a/s 2816,8.05,b96 b98,s,Adult,1,False
+466,0,3,"goncalves, mr. manuel estanslas",male,38.0,0,0,soton/o.q. 3101306,7.05,b96 b98,s,Adult,0,False
+467,0,2,"campbell, mr. william",male,28.0,0,0,239853,0.0,b96 b98,s,Adult,0,False
+469,0,3,"scanlan, mr. james",male,28.0,0,0,36209,7.725,b96 b98,q,Adult,0,False
+471,0,3,"keefe, mr. arthur",male,28.0,0,0,323592,7.25,b96 b98,s,Adult,0,False
+472,0,3,"cacic, mr. luka",male,38.0,0,0,315089,8.6625,b96 b98,s,Adult,2,False
+474,1,2,"jerwan, mrs. amin s (marie marthe thuillard)",female,23.0,0,0,sc/ah basle 541,13.7917,d,c,Adult,2,False
+475,0,3,"strandberg, miss. ida sofia",female,22.0,0,0,7553,9.8375,b96 b98,s,Adult,2,False
+476,0,1,"clifford, mr. george quincy",male,28.0,0,0,110465,52.0,a14,s,Adult,3,False
+477,0,2,"renouf, mr. peter henry",male,34.0,1,0,31027,21.0,b96 b98,s,Adult,3,False
+478,0,3,"braund, mr. lewis richard",male,29.0,1,0,3460,7.0458,b96 b98,s,Adult,0,False
+479,0,3,"karlsson, mr. nils august",male,22.0,0,0,350060,7.5208,b96 b98,s,Adult,0,False
+482,0,2,"frost, mr. anthony wood ""archie""",male,28.0,0,0,239854,0.0,b96 b98,s,Adult,0,False
+483,0,3,"rouse, mr. richard henry",male,50.0,0,0,a/5 3594,8.05,b96 b98,s,Adult,1,False
+489,0,3,"somerton, mr. francis william",male,30.0,0,0,a.5. 18509,8.05,b96 b98,s,Adult,1,False
+491,0,3,"hagland, mr. konrad mathias reiersen",male,28.0,1,0,65304,19.9667,b96 b98,s,Adult,3,False
+492,0,3,"windelov, mr. einar",male,21.0,0,0,soton/oq 3101317,7.25,b96 b98,s,Adult,0,False
+495,0,3,"stanley, mr. edward roland",male,21.0,0,0,a/4 45380,8.05,b96 b98,s,Adult,1,False
+496,0,3,"yousseff, mr. gerious",male,28.0,0,0,2627,14.4583,b96 b98,c,Adult,2,False
+498,0,3,"shellard, mr. frederick william",male,28.0,0,0,c.a. 6212,15.1,b96 b98,s,Adult,3,False
+500,0,3,"svensson, mr. olof",male,24.0,0,0,350035,7.7958,b96 b98,s,Adult,1,False
+501,0,3,"calic, mr. petar",male,17.0,0,0,315086,8.6625,b96 b98,s,Teen,2,True
+502,0,3,"canavan, miss. mary",female,21.0,0,0,364846,7.75,b96 b98,q,Adult,0,False
+503,0,3,"o'sullivan, miss. bridget mary",female,28.0,0,0,330909,7.6292,b96 b98,q,Adult,0,False
+504,0,3,"laitinen, miss. kristina sofia",female,37.0,0,0,4135,9.5875,b96 b98,s,Adult,2,False
+508,1,1,"bradley, mr. george (""george arthur brayton"")",male,28.0,0,0,111427,26.55,b96 b98,s,Adult,3,False
+509,0,3,"olsen, mr. henry margido",male,28.0,0,0,c 4001,22.525,b96 b98,s,Adult,3,False
+511,1,3,"daly, mr. eugene patrick",male,29.0,0,0,382651,7.75,b96 b98,q,Adult,0,False
+512,0,3,"webber, mr. james",male,28.0,0,0,soton/oq 3101316,8.05,b96 b98,s,Adult,1,False
+513,1,1,"mcgough, mr. james robert",male,36.0,0,0,pc 17473,26.2875,e25,s,Adult,3,False
+515,0,3,"coleff, mr. satio",male,24.0,0,0,349209,7.4958,b96 b98,s,Adult,0,False
+516,0,1,"walker, mr. william anderson",male,47.0,0,0,36967,34.0208,d46,s,Adult,3,False
+517,1,2,"lemore, mrs. (amelia milley)",female,34.0,0,0,c.a. 34260,10.5,f33,s,Adult,2,False
+518,0,3,"ryan, mr. patrick",male,28.0,0,0,371110,24.15,b96 b98,q,Adult,3,False
+519,1,2,"angle, mrs. william a (florence ""mary"" agnes hughes)",female,36.0,1,0,226875,26.0,b96 b98,s,Adult,3,False
+520,0,3,"pavlovic, mr. stefo",male,32.0,0,0,349242,7.8958,b96 b98,s,Adult,1,False
+522,0,3,"vovk, mr. janko",male,22.0,0,0,349252,7.8958,b96 b98,s,Adult,1,False
+523,0,3,"lahoud, mr. sarkis",male,28.0,0,0,2624,7.225,b96 b98,c,Adult,0,False
+525,0,3,"kassem, mr. fared",male,28.0,0,0,2700,7.2292,b96 b98,c,Adult,0,False
+526,0,3,"farrell, mr. james",male,40.5,0,0,367232,7.75,b96 b98,q,Adult,0,False
+527,1,2,"ridsdale, miss. lucy",female,50.0,0,0,w./c. 14258,10.5,b96 b98,s,Adult,2,False
+529,0,3,"salonen, mr. johan werner",male,39.0,0,0,3101296,7.925,b96 b98,s,Adult,1,False
+532,0,3,"toufik, mr. nakli",male,28.0,0,0,2641,7.2292,b96 b98,c,Adult,0,False
+535,0,3,"cacic, miss. marija",female,30.0,0,0,315084,8.6625,b96 b98,s,Adult,2,False
+537,0,1,"butt, major. archibald willingham",male,45.0,0,0,113050,26.55,b38,s,Adult,3,False
+539,0,3,"risien, mr. samuel beard",male,28.0,0,0,364498,14.5,b96 b98,s,Adult,2,False
+544,1,2,"beane, mr. edward",male,32.0,1,0,2908,26.0,b96 b98,s,Adult,3,False
+547,1,2,"beane, mrs. edward (ethel clarke)",female,19.0,1,0,2908,26.0,b96 b98,s,Teen,3,False
+548,1,2,"padro y manent, mr. julian",male,28.0,0,0,sc/paris 2146,13.8625,b96 b98,c,Adult,2,False
+552,0,2,"sharp, mr. percival james r",male,27.0,0,0,244358,26.0,b96 b98,s,Adult,3,False
+553,0,3,"o'brien, mr. timothy",male,28.0,0,0,330979,7.8292,b96 b98,q,Adult,1,False
+554,1,3,"leeni, mr. fahim (""philip zenni"")",male,22.0,0,0,2620,7.225,b96 b98,c,Adult,0,False
+555,1,3,"ohman, miss. velin",female,22.0,0,0,347085,7.775,b96 b98,s,Adult,0,False
+557,1,1,"duff gordon, lady. (lucille christiana sutherland) (""mrs morgan"")",female,48.0,1,0,11755,39.6,a16,c,Adult,3,False
+560,1,3,"de messemaeker, mrs. guillaume joseph (emma)",female,36.0,1,0,345572,17.4,b96 b98,s,Adult,3,False
+561,0,3,"morrow, mr. thomas rowan",male,28.0,0,0,372622,7.75,b96 b98,q,Adult,0,False
+562,0,3,"sivic, mr. husein",male,40.0,0,0,349251,7.8958,b96 b98,s,Adult,1,False
+563,0,2,"norman, mr. robert douglas",male,28.0,0,0,218629,13.5,b96 b98,s,Adult,2,False
+564,0,3,"simmons, mr. john",male,28.0,0,0,soton/oq 392082,8.05,b96 b98,s,Adult,1,False
+565,0,3,"meanwell, miss. (marion ogden)",female,28.0,0,0,soton/o.q. 392087,8.05,b96 b98,s,Adult,1,False
+566,0,3,"davies, mr. alfred j",male,24.0,2,0,a/4 48871,24.15,b96 b98,s,Adult,3,False
+567,0,3,"stoytcheff, mr. ilia",male,19.0,0,0,349205,7.8958,b96 b98,s,Teen,1,False
+569,0,3,"doharr, mr. tannous",male,28.0,0,0,2686,7.2292,b96 b98,c,Adult,0,False
+570,1,3,"jonsson, mr. carl",male,32.0,0,0,350417,7.8542,b96 b98,s,Adult,1,False
+572,1,1,"appleton, mrs. edward dale (charlotte lamson)",female,53.0,2,0,11769,51.4792,c101,s,Adult,3,False
+573,1,1,"flynn, mr. john irwin (""irving"")",male,36.0,0,0,pc 17474,26.3875,e25,s,Adult,3,False
+574,1,3,"kelly, miss. mary",female,28.0,0,0,14312,7.75,b96 b98,q,Adult,0,False
+575,0,3,"rush, mr. alfred george john",male,16.0,0,0,a/4. 20589,8.05,b96 b98,s,Teen,1,True
+576,0,3,"patchett, mr. george",male,19.0,0,0,358585,14.5,b96 b98,s,Teen,2,False
+577,1,2,"garside, miss. ethel",female,34.0,0,0,243880,13.0,b96 b98,s,Adult,2,False
+579,0,3,"caram, mrs. joseph (maria elias)",female,28.0,1,0,2689,14.4583,b96 b98,c,Adult,2,False
+580,1,3,"jussila, mr. eiriik",male,32.0,0,0,ston/o 2. 3101286,7.925,b96 b98,s,Adult,1,False
+583,0,2,"downton, mr. william james",male,54.0,0,0,28403,26.0,b96 b98,s,Adult,3,False
+584,0,1,"ross, mr. john hugo",male,36.0,0,0,13049,40.125,a10,c,Adult,3,False
+585,0,3,"paulner, mr. uscher",male,28.0,0,0,3411,8.7125,b96 b98,c,Adult,2,False
+587,0,2,"jarvis, mr. john denzil",male,47.0,0,0,237565,15.0,b96 b98,s,Adult,2,False
+589,0,3,"gilinski, mr. eliezer",male,22.0,0,0,14973,8.05,b96 b98,s,Adult,1,False
+590,0,3,"murdlin, mr. joseph",male,28.0,0,0,a./5. 3235,8.05,b96 b98,s,Adult,1,False
+591,0,3,"rintamaki, mr. matti",male,35.0,0,0,ston/o 2. 3101273,7.125,b96 b98,s,Adult,0,False
+593,0,3,"elsbury, mr. william james",male,47.0,0,0,a/5 3902,7.25,b96 b98,s,Adult,0,False
+595,0,2,"chapman, mr. john henry",male,37.0,1,0,sc/ah 29037,26.0,b96 b98,s,Adult,3,False
+597,1,2,"leitch, miss. jessie wills",female,28.0,0,0,248727,33.0,b96 b98,s,Adult,3,False
+598,0,3,"johnson, mr. alfred",male,49.0,0,0,line,0.0,b96 b98,s,Adult,0,False
+599,0,3,"boulos, mr. hanna",male,28.0,0,0,2664,7.225,b96 b98,c,Adult,0,False
+602,0,3,"slabenoff, mr. petco",male,28.0,0,0,349214,7.8958,b96 b98,s,Adult,1,False
+603,0,1,"harrington, mr. charles h",male,28.0,0,0,113796,42.4,b96 b98,s,Adult,3,False
+604,0,3,"torber, mr. ernst william",male,44.0,0,0,364511,8.05,b96 b98,s,Adult,1,False
+605,1,1,"homer, mr. harry (""mr e haven"")",male,35.0,0,0,111426,26.55,b96 b98,c,Adult,3,False
+606,0,3,"lindell, mr. edvard bengtsson",male,36.0,1,0,349910,15.55,b96 b98,s,Adult,3,False
+607,0,3,"karaic, mr. milan",male,30.0,0,0,349246,7.8958,b96 b98,s,Adult,1,False
+608,1,1,"daniel, mr. robert williams",male,27.0,0,0,113804,30.5,b96 b98,s,Adult,3,False
+612,0,3,"jardin, mr. jose neto",male,28.0,0,0,soton/o.q. 3101305,7.05,b96 b98,s,Adult,0,False
+613,1,3,"murphy, miss. margaret jane",female,28.0,1,0,367230,15.5,b96 b98,q,Adult,3,False
+614,0,3,"horgan, mr. john",male,28.0,0,0,370377,7.75,b96 b98,q,Adult,0,False
+615,0,3,"brocklebank, mr. william alfred",male,35.0,0,0,364512,8.05,b96 b98,s,Adult,1,False
+618,0,3,"lobb, mrs. william arthur (cordelia k stanlick)",female,26.0,1,0,a/5. 3336,16.1,b96 b98,s,Adult,3,False
+620,0,2,"gavey, mr. lawrence",male,26.0,0,0,31028,10.5,b96 b98,s,Adult,2,False
+621,0,3,"yasbeck, mr. antoni",male,27.0,1,0,2659,14.4542,b96 b98,c,Adult,2,False
+622,1,1,"kimball, mr. edwin nelson jr",male,42.0,1,0,11753,52.5542,d19,s,Adult,3,False
+624,0,3,"hansen, mr. henry damsgaard",male,21.0,0,0,350029,7.8542,b96 b98,s,Adult,1,False
+625,0,3,"bowen, mr. david john ""dai""",male,21.0,0,0,54636,16.1,b96 b98,s,Adult,3,False
+629,0,3,"bostandyeff, mr. guentcho",male,26.0,0,0,349224,7.8958,b96 b98,s,Adult,1,False
+630,0,3,"o'connell, mr. patrick d",male,28.0,0,0,334912,7.7333,b96 b98,q,Adult,0,False
+632,0,3,"lundahl, mr. johan svensson",male,51.0,0,0,347743,7.0542,b96 b98,s,Adult,0,False
+633,1,1,"stahelin-maeglin, dr. max",male,32.0,0,0,13214,30.5,b50,c,Adult,3,False
+634,0,1,"parr, mr. william henry marsh",male,28.0,0,0,112052,0.0,b96 b98,s,Adult,0,False
+636,1,2,"davis, miss. mary",female,28.0,0,0,237668,13.0,b96 b98,s,Adult,2,False
+637,0,3,"leinonen, mr. antti gustaf",male,32.0,0,0,ston/o 2. 3101292,7.925,b96 b98,s,Adult,1,False
+640,0,3,"thorneycroft, mr. percival",male,28.0,1,0,376564,16.1,b96 b98,s,Adult,3,False
+641,0,3,"jensen, mr. hans peder",male,20.0,0,0,350050,7.8542,b96 b98,s,Teen,1,False
+647,0,3,"cor, mr. liudevit",male,19.0,0,0,349231,7.8958,b96 b98,s,Teen,1,False
+649,0,3,"willey, mr. edward",male,28.0,0,0,s.o./p.p. 751,7.55,b96 b98,s,Adult,0,False
+650,1,3,"stanley, miss. amy zillah elsie",female,23.0,0,0,ca. 2314,7.55,b96 b98,s,Adult,0,False
+651,0,3,"mitkoff, mr. mito",male,28.0,0,0,349221,7.8958,b96 b98,s,Adult,1,False
+653,0,3,"kalvik, mr. johannes halvorsen",male,21.0,0,0,8475,8.4333,b96 b98,s,Adult,1,False
+654,1,3,"o'leary, miss. hanora ""norah""",female,28.0,0,0,330919,7.8292,b96 b98,q,Adult,1,False
+655,0,3,"hegarty, miss. hanora ""nora""",female,18.0,0,0,365226,6.75,b96 b98,q,Teen,0,False
+657,0,3,"radeff, mr. alexander",male,28.0,0,0,349223,7.8958,b96 b98,s,Adult,1,False
+659,0,2,"eitemiller, mr. george floyd",male,23.0,0,0,29751,13.0,b96 b98,s,Adult,2,False
+662,0,3,"badt, mr. mohamed",male,40.0,0,0,2623,7.225,b96 b98,c,Adult,0,False
+663,0,1,"colley, mr. edward pomeroy",male,47.0,0,0,5727,25.5875,e58,s,Adult,3,False
+664,0,3,"coleff, mr. peju",male,36.0,0,0,349210,7.4958,b96 b98,s,Adult,0,False
+665,1,3,"lindqvist, mr. eino william",male,20.0,1,0,ston/o 2. 3101285,7.925,b96 b98,s,Teen,1,False
+667,0,2,"butler, mr. reginald fenton",male,25.0,0,0,234686,13.0,b96 b98,s,Adult,2,False
+668,0,3,"rommetvedt, mr. knud paust",male,28.0,0,0,312993,7.775,b96 b98,s,Adult,0,False
+669,0,3,"cook, mr. jacob",male,43.0,0,0,a/5 3536,8.05,b96 b98,s,Adult,1,False
+670,1,1,"taylor, mrs. elmer zebley (juliet cummins wright)",female,28.0,1,0,19996,52.0,c126,s,Adult,3,False
+672,0,1,"davidson, mr. thornton",male,31.0,1,0,f.c. 12750,52.0,b71,s,Adult,3,False
+674,1,2,"wilhelms, mr. charles",male,31.0,0,0,244270,13.0,b96 b98,s,Adult,2,False
+675,0,2,"watson, mr. ennis hastings",male,28.0,0,0,239856,0.0,b96 b98,s,Adult,0,False
+676,0,3,"edvardsson, mr. gustaf hjalmar",male,18.0,0,0,349912,7.775,b96 b98,s,Teen,0,False
+677,0,3,"sawyer, mr. frederick charles",male,24.5,0,0,342826,8.05,b96 b98,s,Adult,1,False
+678,1,3,"turja, miss. anna sofia",female,18.0,0,0,4138,9.8417,b96 b98,s,Teen,2,False
+681,0,3,"peters, miss. katie",female,28.0,0,0,330935,8.1375,b96 b98,q,Adult,1,False
+683,0,3,"olsvigen, mr. thor anderson",male,20.0,0,0,6563,9.225,b96 b98,s,Teen,2,False
+688,0,3,"dakic, mr. branko",male,19.0,0,0,349228,10.1708,b96 b98,s,Teen,2,False
+689,0,3,"fischer, mr. eberhard thelander",male,18.0,0,0,350036,7.7958,b96 b98,s,Teen,1,False
+694,0,3,"saad, mr. khalil",male,25.0,0,0,2672,7.225,b96 b98,c,Adult,0,False
+696,0,2,"chapman, mr. charles henry",male,52.0,0,0,248731,13.5,b96 b98,s,Adult,2,False
+697,0,3,"kelly, mr. james",male,44.0,0,0,363592,8.05,b96 b98,s,Adult,1,False
+698,1,3,"mullens, miss. katherine ""katie""",female,28.0,0,0,35852,7.7333,b96 b98,q,Adult,0,False
+700,0,3,"humblen, mr. adolf mathias nicolai olsen",male,42.0,0,0,348121,7.65,f g63,s,Adult,0,False
+702,1,1,"silverthorne, mr. spencer victor",male,35.0,0,0,pc 17475,26.2875,e24,s,Adult,3,False
+704,0,3,"gallagher, mr. martin",male,25.0,0,0,36864,7.7417,b96 b98,q,Adult,0,False
+705,0,3,"hansen, mr. henrik juul",male,26.0,1,0,350025,7.8542,b96 b98,s,Adult,1,False
+706,0,2,"morley, mr. henry samuel (""mr henry marshall"")",male,39.0,0,0,250655,26.0,b96 b98,s,Adult,3,False
+707,1,2,"kelly, mrs. florence ""fannie""",female,45.0,0,0,223596,13.5,b96 b98,s,Adult,2,False
+708,1,1,"calderhead, mr. edward pennington",male,42.0,0,0,pc 17476,26.2875,e24,s,Adult,3,False
+711,1,1,"mayne, mlle. berthe antonine (""mrs de villiers"")",female,24.0,0,0,pc 17482,49.5042,c90,c,Adult,3,False
+712,0,1,"klaber, mr. herman",male,28.0,0,0,113028,26.55,c124,s,Adult,3,False
+713,1,1,"taylor, mr. elmer zebley",male,48.0,1,0,19996,52.0,c126,s,Adult,3,False
+714,0,3,"larsson, mr. august viktor",male,29.0,0,0,7545,9.4833,b96 b98,s,Adult,2,False
+715,0,2,"greenberg, mr. samuel",male,52.0,0,0,250647,13.0,b96 b98,s,Adult,2,False
+716,0,3,"soholt, mr. peter andreas lauritz andersen",male,19.0,0,0,348124,7.65,f g73,s,Teen,0,False
+718,1,2,"troutt, miss. edwina celia ""winnie""",female,27.0,0,0,34218,10.5,e101,s,Adult,2,False
+719,0,3,"mcevoy, mr. michael",male,28.0,0,0,36568,15.5,b96 b98,q,Adult,3,False
+720,0,3,"johnson, mr. malkolm joackim",male,33.0,0,0,347062,7.775,b96 b98,s,Adult,0,False
+722,0,3,"jensen, mr. svend lauritz",male,17.0,1,0,350048,7.0542,b96 b98,s,Teen,0,True
+723,0,2,"gillespie, mr. william henry",male,34.0,0,0,12233,13.0,b96 b98,s,Adult,2,False
+724,0,2,"hodges, mr. henry price",male,50.0,0,0,250643,13.0,b96 b98,s,Adult,2,False
+725,1,1,"chambers, mr. norman campbell",male,27.0,1,0,113806,53.1,e8,s,Adult,3,False
+726,0,3,"oreskovic, mr. luka",male,20.0,0,0,315094,8.6625,b96 b98,s,Teen,2,False
+728,1,3,"mannion, miss. margareth",female,28.0,0,0,36866,7.7375,b96 b98,q,Adult,0,False
+729,0,2,"bryhl, mr. kurt arnold gottfrid",male,25.0,1,0,236853,26.0,b96 b98,s,Adult,3,False
+730,0,3,"ilmakangas, miss. pieta sofia",female,25.0,1,0,ston/o2. 3101271,7.925,b96 b98,s,Adult,1,False
+732,0,3,"hassan, mr. houssein g n",male,11.0,0,0,2699,18.7875,b96 b98,c,Child,3,True
+733,0,2,"knight, mr. robert j",male,28.0,0,0,239855,0.0,b96 b98,s,Adult,0,False
+734,0,2,"berriman, mr. william john",male,23.0,0,0,28425,13.0,b96 b98,s,Adult,2,False
+735,0,2,"troupiansky, mr. moses aaron",male,23.0,0,0,233639,13.0,b96 b98,s,Adult,2,False
+736,0,3,"williams, mr. leslie",male,28.5,0,0,54636,16.1,b96 b98,s,Adult,3,False
+739,0,3,"ivanoff, mr. kanio",male,28.0,0,0,349201,7.8958,b96 b98,s,Adult,1,False
+740,0,3,"nankoff, mr. minko",male,28.0,0,0,349218,7.8958,b96 b98,s,Adult,1,False
+741,1,1,"hawksford, mr. walter james",male,28.0,0,0,16988,30.0,d45,s,Adult,3,False
+744,0,3,"mcnamee, mr. neal",male,24.0,1,0,376566,16.1,b96 b98,s,Adult,3,False
+745,1,3,"stranden, mr. juho",male,31.0,0,0,ston/o 2. 3101288,7.925,b96 b98,s,Adult,1,False
+748,1,2,"sinkkonen, miss. anna",female,30.0,0,0,250648,13.0,b96 b98,s,Adult,2,False
+749,0,1,"marvin, mr. daniel warner",male,19.0,1,0,113773,53.1,d30,s,Teen,3,False
+750,0,3,"connaghton, mr. michael",male,31.0,0,0,335097,7.75,b96 b98,q,Adult,0,False
+753,0,3,"vande velde, mr. johannes joseph",male,33.0,0,0,345780,9.5,b96 b98,s,Adult,2,False
+754,0,3,"jonkoff, mr. lalio",male,23.0,0,0,349204,7.8958,b96 b98,s,Adult,1,False
+757,0,3,"carlsson, mr. august sigfrid",male,28.0,0,0,350042,7.7958,b96 b98,s,Adult,1,False
+758,0,2,"bailey, mr. percy andrew",male,18.0,0,0,29108,11.5,b96 b98,s,Teen,2,False
+759,0,3,"theobald, mr. thomas leonard",male,34.0,0,0,363294,8.05,b96 b98,s,Adult,1,False
+761,0,3,"garfirth, mr. john",male,28.0,0,0,358585,14.5,b96 b98,s,Adult,2,False
+762,0,3,"nirva, mr. iisakki antino aijo",male,41.0,0,0,soton/o2 3101272,7.125,b96 b98,s,Adult,0,False
+763,1,3,"barah, mr. hanna assi",male,20.0,0,0,2663,7.2292,b96 b98,c,Teen,0,False
+765,0,3,"eklund, mr. hans linus",male,16.0,0,0,347074,7.775,b96 b98,s,Teen,0,True
+767,0,1,"brewe, dr. arthur jackson",male,28.0,0,0,112379,39.6,b96 b98,c,Adult,3,False
+768,0,3,"mangan, miss. mary",female,30.5,0,0,364850,7.75,b96 b98,q,Adult,0,False
+769,0,3,"moran, mr. daniel j",male,28.0,1,0,371110,24.15,b96 b98,q,Adult,3,False
+770,0,3,"gronnestad, mr. daniel danielsen",male,32.0,0,0,8471,8.3625,b96 b98,s,Adult,1,False
+771,0,3,"lievens, mr. rene aime",male,24.0,0,0,345781,9.5,b96 b98,s,Adult,2,False
+772,0,3,"jensen, mr. niels peder",male,48.0,0,0,350047,7.8542,b96 b98,s,Adult,1,False
+774,0,3,"elias, mr. dibo",male,28.0,0,0,2674,7.225,b96 b98,c,Adult,0,False
+776,0,3,"myhrman, mr. pehr fabian oliver malkolm",male,18.0,0,0,347078,7.75,b96 b98,s,Teen,0,False
+777,0,3,"tobin, mr. roger",male,28.0,0,0,383121,7.75,f38,q,Adult,0,False
+778,1,3,"emanuel, miss. virginia ethel",female,5.0,0,0,364516,12.475,b96 b98,s,Child,2,True
+779,0,3,"kilgannon, mr. thomas j",male,28.0,0,0,36865,7.7375,b96 b98,q,Adult,0,False
+781,1,3,"ayoub, miss. banoura",female,13.0,0,0,2687,7.2292,b96 b98,c,Teen,0,True
+783,0,1,"long, mr. milton clyde",male,29.0,0,0,113501,30.0,d6,s,Adult,3,False
+785,0,3,"ali, mr. william",male,25.0,0,0,soton/o.q. 3101312,7.05,b96 b98,s,Adult,0,False
+786,0,3,"harmer, mr. abraham (david lishin)",male,25.0,0,0,374887,7.25,b96 b98,s,Adult,0,False
+787,1,3,"sjoblom, miss. anna sofia",female,18.0,0,0,3101265,7.4958,b96 b98,s,Teen,0,False
+791,0,3,"keane, mr. andrew ""andy""",male,28.0,0,0,12460,7.75,b96 b98,q,Adult,0,False
+792,0,2,"gaskell, mr. alfred",male,16.0,0,0,239865,26.0,b96 b98,s,Teen,3,True
+794,0,1,"hoyt, mr. william fisher",male,28.0,0,0,pc 17600,30.6958,b96 b98,c,Adult,3,False
+795,0,3,"dantcheff, mr. ristiu",male,25.0,0,0,349203,7.8958,b96 b98,s,Adult,1,False
+796,0,2,"otter, mr. richard",male,39.0,0,0,28213,13.0,b96 b98,s,Adult,2,False
+797,1,1,"leader, dr. alice (farnham)",female,49.0,0,0,17465,25.9292,d17,s,Adult,3,False
+798,1,3,"osman, mrs. mara",female,31.0,0,0,349244,8.6833,b96 b98,s,Adult,2,False
+799,0,3,"ibrahim shawah, mr. yousseff",male,30.0,0,0,2685,7.2292,b96 b98,c,Adult,0,False
+801,0,2,"ponesell, mr. martin",male,34.0,0,0,250647,13.0,b96 b98,s,Adult,2,False
+805,1,3,"hedman, mr. oskar arvid",male,27.0,0,0,347089,6.975,b96 b98,s,Adult,0,False
+806,0,3,"johansson, mr. karl johan",male,31.0,0,0,347063,7.775,b96 b98,s,Adult,0,False
+807,0,1,"andrews, mr. thomas jr",male,39.0,0,0,112050,0.0,a36,s,Adult,0,False
+808,0,3,"pettersson, miss. ellen natalia",female,18.0,0,0,347087,7.775,b96 b98,s,Teen,0,False
+809,0,2,"meyer, mr. august",male,39.0,0,0,248723,13.0,b96 b98,s,Adult,2,False
+810,1,1,"chambers, mrs. norman campbell (bertha griggs)",female,33.0,1,0,113806,53.1,e8,s,Adult,3,False
+811,0,3,"alexander, mr. william",male,26.0,0,0,3474,7.8875,b96 b98,s,Adult,1,False
+812,0,3,"lester, mr. james",male,39.0,0,0,a/4 48871,24.15,b96 b98,s,Adult,3,False
+813,0,2,"slemen, mr. richard james",male,35.0,0,0,28206,10.5,b96 b98,s,Adult,2,False
+815,0,3,"tomlin, mr. ernest portage",male,30.5,0,0,364499,8.05,b96 b98,s,Adult,1,False
+816,0,1,"fry, mr. richard",male,28.0,0,0,112058,0.0,b102,s,Adult,0,False
+817,0,3,"heininen, miss. wendla maria",female,23.0,0,0,ston/o2. 3101290,7.925,b96 b98,s,Adult,1,False
+819,0,3,"holm, mr. john fredrik alexander",male,43.0,0,0,c 7075,6.45,b96 b98,s,Adult,0,False
+822,1,3,"lulic, mr. nikola",male,27.0,0,0,315098,8.6625,b96 b98,s,Adult,2,False
+823,0,1,"reuchlin, jonkheer. john george",male,38.0,0,0,19972,0.0,b96 b98,s,Adult,0,False
+826,0,3,"flynn, mr. john",male,28.0,0,0,368323,6.95,b96 b98,q,Adult,0,False
+829,1,3,"mccormack, mr. thomas joseph",male,28.0,0,0,367228,7.75,b96 b98,q,Adult,0,False
+831,1,3,"yasbeck, mrs. antoni (selini alexander)",female,15.0,1,0,2659,14.4542,b96 b98,c,Teen,2,True
+833,0,3,"saad, mr. amin",male,28.0,0,0,2671,7.2292,b96 b98,c,Adult,0,False
+834,0,3,"augustsson, mr. albert",male,23.0,0,0,347468,7.8542,b96 b98,s,Adult,1,False
+835,0,3,"allum, mr. owen george",male,18.0,0,0,2223,8.3,b96 b98,s,Teen,1,False
+837,0,3,"pasic, mr. jakob",male,21.0,0,0,315097,8.6625,b96 b98,s,Adult,2,False
+838,0,3,"sirota, mr. maurice",male,28.0,0,0,392092,8.05,b96 b98,s,Adult,1,False
+840,1,1,"marechal, mr. pierre",male,28.0,0,0,11774,29.7,c47,c,Adult,3,False
+841,0,3,"alhomaki, mr. ilmari rudolf",male,20.0,0,0,soton/o2 3101287,7.925,b96 b98,s,Teen,1,False
+842,0,2,"mudd, mr. thomas charles",male,16.0,0,0,s.o./p.p. 3,10.5,b96 b98,s,Teen,2,True
+843,1,1,"serepeca, miss. augusta",female,30.0,0,0,113798,31.0,b96 b98,c,Adult,3,False
+844,0,3,"lemberopolous, mr. peter l",male,34.5,0,0,2683,6.4375,b96 b98,c,Adult,0,False
+845,0,3,"culumovic, mr. jeso",male,17.0,0,0,315090,8.6625,b96 b98,s,Teen,2,True
+846,0,3,"abbing, mr. anthony",male,42.0,0,0,c.a. 5547,7.55,b96 b98,s,Adult,0,False
+848,0,3,"markoff, mr. marin",male,35.0,0,0,349213,7.8958,b96 b98,c,Adult,1,False
+855,0,2,"carter, mrs. ernest courtenay (lilian hughes)",female,44.0,1,0,244252,26.0,b96 b98,s,Adult,3,False
+858,1,1,"daly, mr. peter denis",male,51.0,0,0,113055,26.55,e17,s,Adult,3,False
+860,0,3,"razi, mr. raihed",male,28.0,0,0,2629,7.2292,b96 b98,c,Adult,0,False
+861,0,3,"hansen, mr. claus peter",male,41.0,2,0,350026,14.1083,b96 b98,s,Adult,2,False
+862,0,2,"giles, mr. frederick edward",male,21.0,1,0,28134,11.5,b96 b98,s,Adult,2,False
+863,1,1,"swift, mrs. frederick joel (margaret welles barron)",female,48.0,0,0,17466,25.9292,d17,s,Adult,3,False
+865,0,2,"gill, mr. john william",male,24.0,0,0,233866,13.0,b96 b98,s,Adult,2,False
+866,1,2,"bystrom, mrs. (karolina)",female,42.0,0,0,236852,13.0,b96 b98,s,Adult,2,False
+867,1,2,"duran y more, miss. asuncion",female,27.0,1,0,sc/paris 2149,13.8583,b96 b98,c,Adult,2,False
+868,0,1,"roebling, mr. washington augustus ii",male,31.0,0,0,pc 17590,50.4958,a24,s,Adult,3,False
+869,0,3,"van melkebeke, mr. philemon",male,28.0,0,0,345777,9.5,b96 b98,s,Adult,2,False
+871,0,3,"balkic, mr. cerin",male,26.0,0,0,349248,7.8958,b96 b98,s,Adult,1,False
+873,0,1,"carlsson, mr. frans olof",male,33.0,0,0,695,5.0,b51 b53 b55,s,Adult,0,False
+874,0,3,"vander cruyssen, mr. victor",male,47.0,0,0,345765,9.0,b96 b98,s,Adult,2,False
+875,1,2,"abelson, mrs. samuel (hannah wizosky)",female,28.0,1,0,p/pp 3381,24.0,b96 b98,c,Adult,3,False
+876,1,3,"najib, miss. adele kiamie ""jane""",female,15.0,0,0,2667,7.225,b96 b98,c,Teen,0,True
+877,0,3,"gustafsson, mr. alfred ossian",male,20.0,0,0,7534,9.8458,b96 b98,s,Teen,2,False
+878,0,3,"petroff, mr. nedelio",male,19.0,0,0,349212,7.8958,b96 b98,s,Teen,1,False
+879,0,3,"laleff, mr. kristo",male,28.0,0,0,349217,7.8958,b96 b98,s,Adult,1,False
+882,0,3,"markun, mr. johann",male,33.0,0,0,349257,7.8958,b96 b98,s,Adult,1,False
+883,0,3,"dahlberg, miss. gerda ulrika",female,22.0,0,0,7552,10.5167,b96 b98,s,Adult,2,False
+884,0,2,"banfield, mr. frederick james",male,28.0,0,0,c.a./soton 34068,10.5,b96 b98,s,Adult,2,False
+885,0,3,"sutehall, mr. henry jr",male,25.0,0,0,soton/oq 392076,7.05,b96 b98,s,Adult,0,False
+887,0,2,"montvila, rev. juozas",male,27.0,0,0,211536,13.0,b96 b98,s,Adult,2,False
+888,1,1,"graham, miss. margaret edith",female,19.0,0,0,112053,30.0,b42,s,Teen,3,False
+890,1,1,"behr, mr. karl howell",male,26.0,0,0,111369,30.0,c148,c,Adult,3,False
+891,0,3,"dooley, mr. patrick",male,32.0,0,0,370376,7.75,b96 b98,q,Adult,0,False

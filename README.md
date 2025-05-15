@@ -1,2 +1,8 @@
-# Data-Science-and-Analytics
-i will publish some of the  tasks related to Data Analysis
+# Data Wrangling Assignment
+
+## Data Cleaning Summary
+- Missing values handled with dropna.
+- Duplicates removed.
+- Data types converted.
+- Categorical variables standardized.
+- Outliers removed using IQR.
